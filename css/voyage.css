@@ -1,0 +1,21 @@
+
+
+
+
+
+
+
+body{ }
+
+header{background-color: aqua; height: 20px;}
+
+
+nav {background-color: aqua; height: 20px;
+ 
+}
+
+nav,
+div {
+  display: flex;
+  float: left;
+}
